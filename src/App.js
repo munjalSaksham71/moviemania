@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./styles.css";
 
 const movies = {
-  "sci-fi": [
+  "Sci-fi": [
     { name: "Tenet", rating: 4 },
     { name: "The Platform", rating: 4.5 },
     { name: "Space Sweeper", rating: 3.5 }
